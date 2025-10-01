@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: b46ce8a36f714f2499c559e8de8016ef
+  - enabled: 1
+    path: Assets/Scenes/SkyBubbles.unity
+    guid: 049fdefabd1f5714e832a78084d4f68e
+  - enabled: 1
+    path: Assets/Scenes/GeoTreasure.unity
+    guid: 0d4c0224bdfd74d42bb705d38ac320fa
+  - enabled: 1
+    path: Assets/Scenes/ARMarkerBlaster.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SocialBridge.unity
+    guid: 687583f7760318644962c4256885cc74
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
